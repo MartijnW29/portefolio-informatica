@@ -1,0 +1,42 @@
+<p> text hier </p>                    (text)
+<p style="color:red;"> text hier </p> (dit veranderd de kleur van de text)
+<p title="text hier"> dit is een info vakje voor als je met je muis over de text gaat
+
+<h1> text hier </h1> dit gaat tot <h6> (kopje)
+<h1 style="color:red;"> text hier </h1> (dit veranderd de kleur van de text)
+<h1 style="font-size:60px;"> text hier</h1> (werkt alleen voor Headdings)
+<h1 title="text hier"> dit is een info vakje voor als je met je muis over de text gaat
+
+<br> lege regel (enter)
+
+<a href="link hier"> display naam voor als de foto niet inlaad</a>  (Zit er een " in een link gebruik dan')
+
+<img scr="adres van foto" width="300" height="300" alt="naam die te zien is als de foto niet inlaad">
+
+<ul>
+  <li>zet hier dingen zoals <p></li>  (dit zet een punt voor de text zoals in word)
+</ul>
+
+<ol>
+  <li>zet hier dingen zoals <p></li>  (dit zet een nummer voor de text zoals in word)
+</ol>
+
+
+<a href="https://MartijnW29.github.io/portefolio-informatica/ZET HIER NAAM VAN BESTAND">TITEL</a>
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<html lang="nl">
+<title> hier website titel</title>
+</head>
+<body>
+
+voeg hier alle <p> <h1> foto's e andere dingen in toe
+
+</body>
+</html>
