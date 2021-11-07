@@ -9,7 +9,7 @@
 
 <br> lege regel (enter)
 
-<a href="link hier"> display naam voor als de foto niet inlaad</a>  (Zit er een " in een link gebruik dan')
+<a href="link hier">text waar je op klikt voor de link</a>  (Zit er een " in een link gebruik dan')
 
 <img scr="adres van foto" width="300" height="300" alt="naam die te zien is als de foto niet inlaad">
 
