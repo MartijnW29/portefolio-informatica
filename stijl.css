@@ -21,3 +21,15 @@
 .menuitem:hover {
   background-color: #111;
 }
+
+
+//animatie knop
+
+body {
+  background-color: #1D1F20;
+}
+
+.btn {
+  background-color: #2B2D2F;
+  collor: #71DFBE;
+}
