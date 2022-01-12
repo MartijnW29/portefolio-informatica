@@ -28,8 +28,9 @@
 body {
   background-color: white;
   min-height: 100vh;
-  display: flex;
-
+  display: grid;
+  justify-content: center;
+  align-items: baseline;
   margin: 0;
 }
 
