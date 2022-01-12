@@ -30,7 +30,7 @@ body {
   min-height: 100vh;
   display: grid;
   justify-content: center;
-  align-items: baseline;
+  align-items: flex-start;
   margin: 0;
 }
 
